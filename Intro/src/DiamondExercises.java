@@ -1,5 +1,5 @@
 /*
- * Code for Triangle Exercises.
+ * Code for Diamond Exercises.
  * @Author Huabin Liu.
  */
 import java.util.*;
