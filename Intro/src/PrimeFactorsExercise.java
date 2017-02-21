@@ -10,9 +10,6 @@ public class PrimeFactorsExercise {
         Scanner sc = new Scanner(System.in);
         System.out.print("Please set the value of N: ");
         int n = sc.nextInt();
-        if (n < 2) {
-            return;
-        }
         primeFactors(n);
     }
 
